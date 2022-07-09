@@ -32,3 +32,6 @@ Inferencing the MASK R-CNN extracts the features of image:
 Next important thing to observe here is the mask shape which is 28×28 as it is trained on the COCO dataset and we have a total of 81 classes.
 
 This means that there are 81 possible prediction classes in which an object may fall into.
+
+
+[Click Here](https://drive.google.com/file/d/1FEgW1Nw5apSjmjPqHjbNgTsFcTQGwQfe/view?usp=sharing) to get h5py file of mrcnn 
